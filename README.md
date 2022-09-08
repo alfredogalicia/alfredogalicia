@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alfredogalicia
-- 👀 I’m interested in all kinds of development, including security, API's, webhooks, web development and videogames.
-- 🌱 I’m currently learning Scala and Swift
+- 👀 I’m interested in front-end development, cybersecurity, VR-AR, QA testing and game development.
+- 🌱 I’m currently learning Swift and Solidity
+- 🖥  I use VSC, Laravel, Netbeans, Azure and .NET
 - 💞️ I’m looking to collaborate on every school project where I work now
 - 📫 How to reach me 
   - By whatsapp - +527711294670
