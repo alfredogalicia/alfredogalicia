@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alfredogalicia
-- 👀 I’m interested in front-end development, cybersecurity, VR-AR, QA testing and game development.
-- 🌱 I’m currently learning Swift and Solidity
-- 🖥  I use VSC, Laravel, Netbeans, Azure and .NET
-- 💞️ I’m looking to collaborate on every school project where I work now
-- 📫 How to reach me 
+- 👀 I’m an AI Engineer interested in Web Development, Ethic Cybersecurity and VR-AR.
+- 🌱 I’m currently learning Swift and LLM's
+- 🖥  I use VSC, Azure and .NET
+- 💞️ I’m looking to collaborate with schools to teach about AI Ethics and its Digital Revolution.
+- 📫 How to reach me
   - By whatsapp - +527711294670
   - By Telegram - @Alfredogalicia
   - By Discord  - Fredd.galicia#2252
