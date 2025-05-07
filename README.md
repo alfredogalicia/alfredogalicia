@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfredogalicia
 - 👀 I’m an AI Engineer interested in Web Development, Ethic Cybersecurity and VR-AR.
-- 🌱 I’m currently learning Swift and LLM's
+- 🌱 I’m currently learning about LLM's and Neural Networks.
 - 🖥  I use VSC, Azure and .NET
 - 💞️ I’m looking to collaborate with schools to teach about AI Ethics and its Digital Revolution.
 - 📫 How to reach me
